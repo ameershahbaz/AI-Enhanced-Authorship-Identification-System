@@ -270,8 +270,3 @@ def identify_registered_author(text, threshold=0.6):
 
     return {"prediction": "UNKNOWN_AUTHOR", "similarity": float(best_score)}
 
-register_author("S", "")
-
-new_essay = "darwin"
-identify_registered_author(new_essay)
-
