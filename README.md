@@ -1,0 +1,2 @@
+# AI-Enhanced Authorship Identification System
+ An AI-enhanced authorship attribution system that identifies the author of a text among registered human and AI authors using stylometric analysis with TF-IDF-weighted character and word n-grams and a linear SVM. The system supports open-set authorship by recognizing unknown authors and allows new authors to be registered through similarity-based matching.
