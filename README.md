@@ -33,10 +33,10 @@ This project uses publicly available datasets.
 
 ### Human Authors
 - Blog Authorship Corpus
-
+(Texts of 40 different human authors)
 ### AI Authors
 - LLM Detect AI Generated Text Dataset (Kaggle)
-
+(Texts of 10 AI pseudo authors)
 To keep the repository lightweight and comply with dataset licensing, the datasets are **not included** in this repository.
 
 ---
